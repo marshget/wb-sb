@@ -37,7 +37,7 @@ module.exports = async (req, res) => {
       content: '',
       embeds: [
         {
-          title: '<:scmegaphone:1298849163957768272> **information PNB**',
+          title: '<:scmegaphone:1298849163957768272> **VIP SuperBroadcast**',
           description: statusMessage, // Tanggal dan waktu dihapus dari deskripsi
           color: 0xFF0000, // Warna merah
           image: {
