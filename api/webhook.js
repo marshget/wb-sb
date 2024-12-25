@@ -37,7 +37,7 @@ module.exports = async (req, res) => {
       content: '',
       embeds: [
         {
-          title: '<:scmegaphone:1298849163957768272> **VIP SuperBroadcast**',
+          title: '<a:vip:1126867807636815955> **VIP SuperBroadcast** <a:vip:1126867807636815955>',
           description: statusMessage, // Tanggal dan waktu dihapus dari deskripsi
           color: 0xFF0000, // Warna merah
           image: {
